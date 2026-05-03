@@ -9,8 +9,9 @@
 - Monoplazas 2025 y 2026: Ejecutar directamente la aplicación interactiva (F1_Optimizer_App) e interactuar a través de su interfaz.
 - Monoplaza Ferrari F2004: Ejecutar los códigos fuente (.m) en orden directamente desde el editor de código o la consola de MATLAB.
 
-# Nota importante: 
-El código está configurado específicamente para procesar la telemetría adjunta en este repositorio. Si se desea utilizar una telemetría distinta, será necesario ajustar los parámetros dentro del código.
+# Notas importantes: 
+- El código está configurado específicamente para procesar la telemetría adjunta en este repositorio. Si se desea utilizar una telemetría distinta, será necesario ajustar los parámetros dentro del código.
+- Nuevos Circuitos: Actualmente, la aplicación funciona de serie con los 12 circuitos evaluados en el estudio. Para añadir nuevos trazados, será necesario modelar previamente su geometría utilizando la herramienta OpenLAP/OpenTRACK.
 
 -------------------------------------------------------
 
@@ -25,5 +26,6 @@ El código está configurado específicamente para procesar la telemetría adjun
 - 2025 and 2026 Cars: Run the interactive application (F1_Optimizer_App) directly and interact through its interface.
 - Ferrari F2004 Car: Run the source codes (.m) sequentially directly from the code editor or the MATLAB console.
 
-# Important note: 
-The code is specifically configured to process the telemetry attached in this repository. If different telemetry is to be used, it will be necessary to adjust the paths and parameters within the code.
+# Important notes: 
+- The code is specifically configured to process the telemetry attached in this repository. If different telemetry is to be used, it will be necessary to adjust the paths and parameters within the code.
+- Currently, the application works out-of-the-box with the 12 circuits evaluated in the study. To add new tracks, it will be necessary to previously model their geometry using the OpenLAP/OpenTRACK tool.
