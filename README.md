@@ -11,7 +11,7 @@
 
 # Notas importantes: 
 - El código está configurado específicamente para procesar la telemetría adjunta en este repositorio. Si se desea utilizar una telemetría distinta, será necesario ajustar los parámetros dentro del código.
-- Nuevos Circuitos: Actualmente, la aplicación funciona de serie con los 12 circuitos evaluados en el estudio. Para añadir nuevos trazados, será necesario modelar previamente su geometría utilizando la herramienta [OpenLAP/OpenTRACK](https://github.com/mc12027/OpenLAP-Lap-Time-Simulator).
+- Actualmente, la aplicación funciona de serie con los 12 circuitos evaluados en el estudio. Para añadir nuevos trazados, será necesario modelar previamente su geometría utilizando la herramienta [OpenLAP/OpenTRACK](https://github.com/mc12027/OpenLAP-Lap-Time-Simulator).
 
 -------------------------------------------------------
 
